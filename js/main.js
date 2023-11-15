@@ -5,11 +5,11 @@ $(function(){
             elevation: 200,
             // ページめくりのスピード(ms)
             duration: 1000,
-            // ページをめくるときの影->有効
+            // ページをめくるときの影
             gradients: true,
             // 自動中央揃え->無効
             autoCenter: false,
-            // 右開きか左開きかの設定->右開き
+            // 右開きか左開きかの設定
             direction: 'ltr', // rtl or ltr
         }
     );
