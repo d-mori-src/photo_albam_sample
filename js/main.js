@@ -10,7 +10,7 @@ $(function(){
             // 自動中央揃え->無効
             autoCenter: false,
             // 右開きか左開きかの設定
-            direction: 'ltr', // rtl or ltr
+            direction: 'rtl', // rtl or ltr
         }
     );
 
